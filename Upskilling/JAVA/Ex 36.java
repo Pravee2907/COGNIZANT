@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 import java.io.BufferedReader;
+=======
+mport java.io.BufferedReader;
+>>>>>>> 2b65e1a2b5e712391b5153c01bf3f11523a64100
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
