@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 class RecursiveFibonacci {
     int fibonacci(int n) {

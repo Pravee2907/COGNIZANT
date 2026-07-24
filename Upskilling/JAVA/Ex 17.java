@@ -1,4 +1,3 @@
-
 class Car {
 
     String make;

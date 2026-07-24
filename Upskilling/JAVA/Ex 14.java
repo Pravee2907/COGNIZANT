@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 class ArraySumAverage {
     public static void main(String[] args) {

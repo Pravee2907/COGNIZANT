@@ -1,5 +1,3 @@
-// Inheritance Example Program in Java
-
 class Animal {
     void makeSound() {
         System.out.println("Animal makes a sound");
