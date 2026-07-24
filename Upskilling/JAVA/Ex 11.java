@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 //  Number Guessing Game
+=======
+>>>>>>> 2b65e1a2b5e712391b5153c01bf3f11523a64100
 import java.util.Random;
 import java.util.Scanner;
 
@@ -6,7 +9,14 @@ class NumberGuessingGame {
     public static void main(String[] args) {
 
         Random rand = new Random();
+<<<<<<< HEAD
         
+=======
+<<<<<<< HEAD
+        
+=======
+>>>>>>> 2b65e1a2b5e712391b5153c01bf3f11523a64100
+>>>>>>> 84dfab70fbcbae39084d98be6e45b57addb2c091
         int randomNumber = rand.nextInt(100) + 1;
 
         try (Scanner sc = new Scanner(System.in)) {
@@ -30,4 +40,8 @@ class NumberGuessingGame {
             } while (guess != randomNumber);
         }
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 2b65e1a2b5e712391b5153c01bf3f11523a64100
