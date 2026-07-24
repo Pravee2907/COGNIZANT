@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Upskilling",
+			"path": "."
+		},
+		{
+			"name": "cog cpy",
+			"path": "../../cog cpy"
+		},
+		{
+			"name": "Deepskilling",
+			"path": "../Deepskilling"
+		}
+	],
+	"settings": {}
+}
